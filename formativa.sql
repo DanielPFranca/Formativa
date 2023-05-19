@@ -96,5 +96,9 @@ insert into check_in (check_S_N, eventoFK, ambienteFK, DtInicio, DtFinal, reserv
 
 select * from check_in;
 
-
+--string conexão danielfranca.mysql.database.azure.com
+-- login bonner
+-- senha daniel*35136
+ 
+ 
  
